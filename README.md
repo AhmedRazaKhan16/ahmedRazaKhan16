@@ -32,9 +32,9 @@
 ---
 
 ### 📈 **GitHub Presence**
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=flutter-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedRazaKhan16&theme=flutter-dark&hide_border=true)](https://git.io/streak-stats)
 
-![Flutter Journey](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=flutter&hide_border=true)
+![Flutter Journey](https://github-readme-activity-graph.vercel.app/graph?username=AhmedRazaKhan16&theme=flutter&hide_border=true)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ---
 
-### 📱 **Showcase Projects**
+<-- ### 📱 **Showcase Projects** -->
 <!-- Add your projects in this format -->
 <!--
 | **[Project Title](link)** | Tech Stack | Key Features |
