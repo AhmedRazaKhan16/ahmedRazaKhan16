@@ -1,7 +1,7 @@
 # 🚀 **Hi, I'm Ahmed Raza Khan** 
 ### **Flutter Developer | Tech Educator @ AR Tech** 
 
-[![YouTube Playlist](https://img.shields.io/badge/FLUTTER%20CHAT%20APP%20PLAYLIST-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLzpjbSRzTad5gkbyeBbYsRDISbcIfiLlY)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AR.TechOfficial)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-raza-khan1662005)
 [![Twitter/X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/ahmed_1662005)
 [![Flutter](https://img.shields.io/badge/Flutter-Expert-%2302569B?style=flat&logo=flutter)](https://flutter.dev)
@@ -43,7 +43,7 @@
 
 ---
 
-<-- ### 📱 **Showcase Projects** -->
+<!-- ### 📱 **Showcase Projects** -->
 <!-- Add your projects in this format -->
 <!--
 | **[Project Title](link)** | Tech Stack | Key Features |
@@ -60,4 +60,4 @@
 [![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmed-raza-khan1662005)  
 [![Twitter/X](https://img.shields.io/badge/Tweet%20Me-black?style=for-the-badge&logo=x)](https://x.com/ahmed_1662005)
 
-🚀 **Pro Tip:** Clone my [Chat App Tutorial Repo](https://github.com/yourusername/flutter-chat-app) to get started!
+<!--🚀 **Pro Tip:** Clone my [Chat App Tutorial Repo](https://github.com/yourusername/flutter-chat-app) to get started! -->
