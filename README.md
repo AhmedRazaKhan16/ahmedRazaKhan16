@@ -2,7 +2,7 @@
 ### **Flutter Developer | Tech Educator @ AR Tech** 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AR.TechOfficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-raza-khan1662005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/imahmedrazakhan)
 [![Twitter/X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/ahmed_1662005)
 [![Flutter](https://img.shields.io/badge/Flutter-Expert-%2302569B?style=flat&logo=flutter)](https://flutter.dev)
 
