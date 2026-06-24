@@ -9,7 +9,7 @@
 ---
 
 ### 🧑💻 **About Me**
-- 📱 **3+ Years** building production-ready Flutter apps
+- 📱 **4+ Years** building production-ready Flutter apps
 - 🎥 Creator of **[Flutter Chat App Tutorial Series](https://youtube.com/playlist?list=PLzpjbSRzTad5gkbyeBbYsRDISbcIfiLlY)**
 - 💡 Specialized in **Real-time Apps** & **Firebase Integration**
 - 🏆 Published **15+ apps** on Play Store/App Store
