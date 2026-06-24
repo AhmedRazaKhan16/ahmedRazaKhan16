@@ -57,7 +57,7 @@
 
 ### 💬 **Connect With Me**
 [![YouTube](https://img.shields.io/badge/Subscribe-AR%20Tech-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@AR.TechOfficial)  
-[![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmed-raza-khan1662005)  
+[![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/imahmedrazakhan)  
 [![Twitter/X](https://img.shields.io/badge/Tweet%20Me-black?style=for-the-badge&logo=x)](https://x.com/ahmed_1662005)
 
 <!--🚀 **Pro Tip:** Clone my [Chat App Tutorial Repo](https://github.com/yourusername/flutter-chat-app) to get started! -->
